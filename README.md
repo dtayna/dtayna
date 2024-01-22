@@ -1,4 +1,4 @@
- ### <center> Hello, I'm Débora Tayná 👋 </center>
+ ## Hello, I'm Débora Tayná 👋
 
 🌱 Started programming at 2015. \
 🎓 Basic Computer Technician at IFRN (2015–2019) \
