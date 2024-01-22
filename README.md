@@ -1,5 +1,11 @@
-### Hi there 👋
+ ### <center> Hello, I'm Débora Tayná 👋 </center>
 
+🌱 Started programming at 2015. \
+🎓 Basic Computer Technician at IFRN (2015–2019) \
+🎓 Bachelor's degree in Information Technology at UFRN-IMD (2019–2023) \
+📚 I’m currently undergraduate student of bachelor of computer science at UFRN-IMD.
+
+🔬 Now i'm using Java, Python, NodeJs, PostgresSQL, Angular, React and other things.
 <!--
 **dtayna/dtayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
