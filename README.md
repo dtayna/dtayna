@@ -2,7 +2,7 @@
 
 📑 Personal Website: https://dtayna.github.io/Apresentacao-angular/ 
 
-🌱 Started programming at 2015. \
+🌱 Programming since 2015. \
 🎓 Basic Computer Technician at IFRN (2015–2019) \
 🎓 Bachelor's degree in Information Technology at UFRN-IMD (2019–2023) \
 📚 I’m currently undergraduate student of bachelor of computer science at UFRN-IMD.
