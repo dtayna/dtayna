@@ -1,5 +1,7 @@
  ## Hello, I'm Débora Tayná 👋
 
+📑 Personal Website: https://dtayna.github.io/Apresentacao-angular/ 
+
 🌱 Started programming at 2015. \
 🎓 Basic Computer Technician at IFRN (2015–2019) \
 🎓 Bachelor's degree in Information Technology at UFRN-IMD (2019–2023) \
