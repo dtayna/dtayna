@@ -7,7 +7,7 @@
 🎓 Bachelor's degree in Information Technology at UFRN-IMD (2019–2023) \
 📚 I’m currently undergraduate student of bachelor of computer science at UFRN-DIMAP.
 
-🔬 Now i'm using Java, Haskell, Python, PostgresSQL, Angular, React among others.
+🔬 Now i'm using Java, Haskell, Python, PostgresSQL, Angular, React among others
 
 <hr>
 <div align="left">
