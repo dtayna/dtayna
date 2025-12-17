@@ -9,6 +9,8 @@
 
 🔬 Now i'm using Java, Haskell, Python, PostgresSQL, Angular, React among others
 
+👾 Check out my games on itch.io: https://dtayna.itch.io/
+
 <hr>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
