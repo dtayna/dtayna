@@ -1,6 +1,6 @@
  ## Hello, I'm Débora Tayná 👋
 
-📑 Personal Website: https://dtayna.github.io/
+📑 Professional Website: https://dtayna.github.io/
 
 🌱 Programming since 2015. \
 🎓 Basic Computer Technician at IFRN (2015–2019) \
