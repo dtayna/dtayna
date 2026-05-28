@@ -1,4 +1,4 @@
- ## Hello, I'm Débora Tayná 👋
+ # Hello, I'm Débora Tayná 👋
 
 📑 Professional Website: https://dtayna.github.io/
 
