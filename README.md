@@ -11,9 +11,7 @@
 🔬 Now i'm using TypeScript, Python, Java, Haskell among others
 
 👾 Check out my games on itch.io: https://dtayna.itch.io/
-<div align="left">
-<img width="100" height="100" alt="Ilustração_Sem_Título (59)" src="https://github.com/user-attachments/assets/188fe1ed-6826-4e92-820a-9d1b231b3d34" />
-</div>
+
 
 <hr>
 <div align="left">
